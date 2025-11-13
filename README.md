@@ -11,7 +11,7 @@ I. Method 1
    `python app_desktop.py`
 
 II. Method 2
-Double-click on 'run_desktop.bat'
+Double-click on `run_desktop.bat`
 
 III. Method 3
 1) Open Command Prompt in this folder.
@@ -25,4 +25,4 @@ III. Method 3
    `pyinstaller --onefile --noconsole ^
      --distpath "%cd%\dist" --workpath "%cd%\build" --specpath "%cd%\build" ^
      app_desktop.py`
--> File .exe will place in 'dist' folder
+-> File .exe will place in `dist` folder
