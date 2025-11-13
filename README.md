@@ -2,7 +2,7 @@
 Author Recommendations is an application that suggests potential scientific collaborators for each author based on co-authorship data and community structures grouped by journals.
 
 ## How to run
-I. Method 1
+I. Method 1:
 1) Install Python 3.11+ on Windows.
 2) Open Command Prompt in this folder.
 3) Run:
@@ -10,10 +10,10 @@ I. Method 1
 4) Run:
    `python app_desktop.py`
 
-II. Method 2
+II. Method 2:
 Double-click on `run_desktop.bat`
 
-III. Method 3
+III. Method 3:
 1) Open Command Prompt in this folder.
 2) Run:
    `pip install pyinstaller`
